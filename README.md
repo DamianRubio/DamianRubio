@@ -17,7 +17,7 @@
       </h3>
       <h3 align="center">I am a young software engineer currently looking for opportunities to join exciting projects as a backend or fullstack engineer</h3>
       <br>
-      <p align="center"><b>About me</b></p>
+      <p align="center"><b><u>About me</u></b></p>
       <p align="center">
          🎓 BS in <b>Software Engineering</b> and MSc in Innovation and Research in Informatics.
          <br>
@@ -34,7 +34,7 @@
       <br>
       <h3 align="center">Reach me out to talk about opportunities or common interests </h2>
       <p align="center">
-        👇 Feel free to check my projects 👇
+        👇 Feel free to check some of my projects 👇
       </p>
    </body>
 </html>
