@@ -1,7 +1,6 @@
 <html>
    <body>
       <h2 align="center">Hi there <img src="media/gifs/wave.gif" width="32" height="32"/>, I'm Damian!</h2>
-      <hr width="25%" align="center">
       <h3 align="center">
          <a href="https://www.linkedin.com/in/damianrubio">
          <img src="media/icons/linkedin_icon.svg" width="32" height="32"/>
@@ -19,16 +18,14 @@
       <h3 align="center">I am a young software engineer currently looking for opportunities to join exciting projects as a backend or fullstack engineer</h3>
       <br>
       <p align="center"><b>About me</b></p>
-      <hr width="25%" align="center">
       <p align="center">
-      <br>
-         🎓 BS in Software Engineering and MSc in Innovation and Research in Informatics.
+         🎓 BS in <b>Software Engineering</b> and MSc in Innovation and Research in Informatics.
          <br>
-         🎯 Focused on impact, understanding technology as a mean. Always open to learn.
+         🎯 Focused on impact, understanding technology as a mean. <b>Always open to learn</b>.
          <br>
-         ☕ I spend my spare time hiking, reading or visiting good coffee places.
+         ☕ I spend my spare time <b>hiking, reading or visiting good coffee places</b>.
          <br>
-         🌱 Interested in tech, entrepreneurship and environmentalism.
+         🌱 Interested in <b>tech, entrepreneurship and environmentalism</b>.
          <br>
          🎧 Love coding to Lofi, Jazz or Nature sounds.
          <br>
