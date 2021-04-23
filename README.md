@@ -2,6 +2,9 @@
    <body>
       <h2 align="center">Hi there <img src="media/gifs/wave.gif" width="32" height="32"/>, I'm Damian!</h2>
       <h3 align="center">
+         <a href="https://twitter.com/dami_rubio">
+         <img src="media/icons/twitter_icon.svg" width="32" height="32"/>
+         </a>
          <a href="https://www.linkedin.com/in/damianrubio">
          <img src="media/icons/linkedin_icon.svg" width="32" height="32"/>
          </a>
