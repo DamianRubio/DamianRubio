@@ -18,7 +18,7 @@
          <img src="media/icons/mail_icon.svg" width="32" height="32"/>
          </a>
       </h3>
-      <h3 align="center">I am a young software engineer currently looking for opportunities to join exciting projects as a backend or fullstack engineer</h3>
+      <h3 align="center">I am a young software engineer currently looking for opportunities to join exciting projects</h3>
       <br>
       <p align="center"><b><u>About me</u></b></p>
       <p align="center">
